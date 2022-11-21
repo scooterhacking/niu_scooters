@@ -1,0 +1,15 @@
+{
+    "data": {
+        "items": [
+            {
+                "devicetype": "FOC",
+                "hasnew": true,
+                "version": "K3E13J23",
+                "date": "1659400295069",
+                "size": "27792",
+                "url": "http://fota.niu.com/download/static/upload/20220722/cabb8022-23f5-45e5-a0e6-92eea31aa4d7/OTA_NIU_K3E13J23_32KPH_MAX_220718.bin",
+                "md5": "f0c7a3e5a7278f21787482d22466b5cf"
+            }
+        ]
+    }
+}
