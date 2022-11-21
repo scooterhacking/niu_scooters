@@ -67,4 +67,4 @@ https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/US/u
 
 
 
-Many thanks to Null, Ivan, cloud1250000 and Camialfa
+Many thanks to Null, Ivan, cloud and Camialfa
