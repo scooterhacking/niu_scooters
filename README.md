@@ -1,5 +1,5 @@
-# kqi3 and kqi2 scooter Firmware repository
-Repository with firmwares for the kqi3 and kqi2 scooters, these files where collected from various places. Also the JSON descriptors values are provided with information like the filename, type and MD5.
+# KQI 300X, kqi3 and kqi2 scooter Firmware repository
+Repository with firmwares for the KQI 300X, kqi3 and kqi2 scooters, these files where collected from various places. Also the JSON descriptors values are provided with information like the filename, type and MD5.
 
 Tutorial (in Spanish but with subtitles it should be OK) https://www.youtube.com/watch?v=40BTCnkcEHg
 
@@ -66,6 +66,7 @@ https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/EU/u
 ### US:
 
 https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/US/update.json
+
 
 ## Kqi 300X
 
