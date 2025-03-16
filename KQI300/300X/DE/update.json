@@ -1,0 +1,16 @@
+
+{
+    "data": {
+        "items": [
+            {
+                "devicetype": "FOC",
+                "hasnew": true,
+                "version": "KBE38D05",
+                "date": "1742068915",
+                "size": "29696",
+                "url": "https://github.com/scooterhacking/niu_scooters/raw/main/KQI300/300X/DE/KBE38M02.bin",
+                "md5": "f356c2e4fb9a128c1ddf17f7166e57cb"
+            }
+        ]
+    }
+}

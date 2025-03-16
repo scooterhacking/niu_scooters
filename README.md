@@ -67,6 +67,21 @@ https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/EU/u
 
 https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/US/update.json
 
+## Kqi 300X
+
+### DE: 
+
+https://github.com/scooterhacking/niu_scooters/raw/main/KQI300/300X/DE/update.json
+
+### EU:
+
+https://github.com/scooterhacking/niu_scooters/raw/main/KQI300/300X/EU/update.json
+
+### US:
+
+https://github.com/scooterhacking/niu_scooters/raw/main/KQI300/300X/US/update.json
+
+
 
 
 Many thanks to Null, Ivan, cloud and Camialfa
